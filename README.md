@@ -4,6 +4,7 @@
 # 💫 About Me:
 🤝 Hello, <br>🌱 I'm Masih, <br>⚡ a front-end developer with a passion for creating engaging user interfaces that solve real-world problems. <br>💬 I have been using ReactJS for a while, I have a deep understanding of this powerful framework and how it can be used to build dynamic and responsive web applications. I'm also proficient in HTML, CSS, and JavaScript, and I use these tools to ensure my code is well-structured and optimized for performance.
 
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masih.balali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masih-balali-846267156/) 
@@ -31,6 +32,6 @@
 [![](https://visitcount.itsvg.in/api?id=Masihbalali&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![laptopgithub](https://github.com/Masihbalali/Masihbalali/assets/33178118/1d41f5e5-9458-418a-890a-ea2353da3af0)
+   ![Monkey_Kid_Coding](https://github.com/Masihbalali/Masihbalali/assets/33178118/59676fc6-e308-4bd2-98d7-901c6ff7f2d3)
 
 
