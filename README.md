@@ -92,7 +92,7 @@
 
 ###
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/masihbalali/masihbalali/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
@@ -101,6 +101,10 @@
 ###
 
 ![18549-paws-animation](https://github.com/Masihbalali/Masihbalali/assets/33178118/aa5d855d-5a49-4c27-b07c-30108ef781b9)
+
+###
+
+<img src="https://raw.githubusercontent.com/Masihbalali/Masihbalali/output/snake.svg" alt="Snake animation" />
 
 ###
 
