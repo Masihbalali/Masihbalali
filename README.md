@@ -92,7 +92,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Masihbalali/Masihbalali/output/snake.svg" alt="Snake animation" />
+![github-user-contribution](https://github.com/Masihbalali/Masihbalali/assets/33178118/434f9a8e-bbe1-4cfe-8326-4779899be0fb)
 
 ###
 
