@@ -92,6 +92,10 @@
 
 ###
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
+###
+
 ![github-user-contribution](https://github.com/Masihbalali/Masihbalali/assets/33178118/434f9a8e-bbe1-4cfe-8326-4779899be0fb)
 
 ###
