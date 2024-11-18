@@ -26,30 +26,13 @@
 
 ###
 
-<h1 align="center">👋🥰🚀🤓✌️🧠🐶🦅🐙🐳🦖🦣🐋🦦⛷️🚁☘️🌚🌏🌈⚓️🍃🍁☄️⚡️🦊🥳❄️🍕🤖🍟🦇🍩🗿🦕💎🦏🎁🍄⛱️☮️🎭🪻🍫🎃🔥🍪👾🌪️🍔🌶️👽🍓🪐👻🌙🥀🐾🤡🧿</h1>
+<h1 align="center">🚀✌️🧠🐶🦅🐙🐳🦖🦣🐋🦦⛷️🚁☘️🌚🌏🌈⚓️🍃🍁☄️⚡️🦊🥳❄️🍕🤖🍟🦇🍩🗿🦕💎🦏🎁🍄⛱️☮️🎭🪻🍫🎃🔥🍪👾🌪️🍔🌶️👽🍓🪐👻🌙🥀🐾🤡</h1>
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Masihbalali&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=7&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masihbalali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Masihbalali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-![github-user-contribution](https://github.com/Masihbalali/Masihbalali/assets/33178118/434f9a8e-bbe1-4cfe-8326-4779899be0fb)
-
-###
-
-![18549-paws-animation](https://github.com/Masihbalali/Masihbalali/assets/33178118/aa5d855d-5a49-4c27-b07c-30108ef781b9)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Masihbalali.Masihbalali&"  />
