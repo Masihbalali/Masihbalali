@@ -39,3 +39,8 @@
 </div>
 
 ###
+
+<a href="#gh-dark-mode-only">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masihbalali&theme=github-dark&point=0D92F400&radius=16#gh-dark-mode-only" alt="Activity Graph">
+</a>
+  
