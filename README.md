@@ -43,4 +43,19 @@
 <a href="#gh-dark-mode-only">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masihbalali&theme=github-dark&point=0D92F400&radius=16#gh-dark-mode-only" alt="Activity Graph">
 </a>
-  
+
+<a href="#gh-dark-mode-only">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Masihbalali&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak"> -->
+</a>
+
+<!-- <a href="#gh-light-mode-only">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Masihbalali&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
+</a> -->
+<!-- LeetCode Stats -->
+<!-- <a href="https://leetcode.com/Masihbalali#gh-dark-mode-only">
+  <img src="https://leetcard.jacoblin.cool/Masihbalali?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+</a> -->
+<!-- <a href="https://leetcode.com/Masihbalali#gh-light-mode-only">
+  <img src="https://leetcard.jacoblin.cool/Masihbalali?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
+</a> -->
+
