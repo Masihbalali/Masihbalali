@@ -44,6 +44,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masihbalali&theme=github-dark&point=0D92F400&radius=16#gh-dark-mode-only" alt="Activity Graph">
 </a>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=Masihbalali&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
+
+
 <a href="#gh-dark-mode-only">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Masihbalali&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak"> -->
 </a>
